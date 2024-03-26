@@ -121,6 +121,13 @@
       "mod_version": "3"
     },
     {
+      "description": "Automatically displays a font with increasing sizes in a new view.",
+      "version": "0.1",
+      "path": "plugins/fontpreview.lua",
+      "id": "fontpreview",
+      "mod_version": "3"
+    },
+    {
       "description": "Debug Lite-XL's Lua VM interactively, if you're running it from a terminal. Warning: Will significantly slow down Lite-XL if installed.",
       "version": "0.1",
       "path": "plugins/lite-debugger.lua",
