@@ -861,7 +861,7 @@
     },
     {
       "description": "Syntax for the [Umka](https://github.com/vtereshkov/umka-lang) programming language.",
-      "version": "0.1",
+      "version": "0.2",
       "path": "plugins/language_umka.lua",
       "id": "language_umka",
       "mod_version": "3"
